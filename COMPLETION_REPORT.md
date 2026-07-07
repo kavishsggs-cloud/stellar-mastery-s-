@@ -35,7 +35,7 @@ The smart contract `PaymentReceiptContract` was compiled targeting `wasm32-unkno
 - Zero private keys, seed phrases, or access tokens exist in the source code or git history.
 - Network secrets are properly routed through `.env.local` placeholders.
 
-## 6. Manual Requirements
-The project is structurally complete. The maintainer must simply:
-1. Embed the **Vercel/Netlify Live Demo URL**.
-2. Embed the **Demo Video URL**.
+## 6. Project Finalization
+The project is officially fully complete. The maintainer has embedded:
+1. **Live Demo URL:** [https://stellar-mastery-s.vercel.app/](https://stellar-mastery-s.vercel.app/)
+2. **Demo Video URL:** [https://www.loom.com/share/266b537bbe654fc09ad0d66d17b326ec](https://www.loom.com/share/266b537bbe654fc09ad0d66d17b326ec)

@@ -53,8 +53,8 @@
 
 ## Multimedia
 - **Screenshots Included:** Manual capture required (see list below).
-- **Demo Video:** [Placeholder]
-- **Live Demo:** [Placeholder]
+- **Demo Video:** [https://www.loom.com/share/266b537bbe654fc09ad0d66d17b326ec](https://www.loom.com/share/266b537bbe654fc09ad0d66d17b326ec)
+- **Live Demo:** [https://stellar-mastery-s.vercel.app/](https://stellar-mastery-s.vercel.app/)
 
 ## Outstanding Manual Tasks
 1. Capture screenshots in browser (`01-home-dashboard.png` ... `15-settings-page.png`).

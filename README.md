@@ -202,7 +202,7 @@ MIT License
 - [x] Comprehensive Documentation
 
 ## Demo Video
-[Placeholder: Insert YouTube/Loom Link Here]
+[Watch the Application Demo on Loom](https://www.loom.com/share/266b537bbe654fc09ad0d66d17b326ec)
 
 ## Live Demo
-[Placeholder: Insert Vercel/Netlify Deployment Link Here]
+[https://stellar-mastery-s.vercel.app/](https://stellar-mastery-s.vercel.app/)
